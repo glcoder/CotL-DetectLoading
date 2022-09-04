@@ -1,0 +1,4 @@
+ffmpeg>=1.4
+ffmpeg_python>=0.2.0
+numpy>=1.23.2
+opencv-python>=4.6.0.66
